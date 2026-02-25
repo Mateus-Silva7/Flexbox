@@ -49,4 +49,4 @@ Durante o desenvolvimento deste projeto, pratiquei:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Mateus Silva**  
-Em transição para a área de Tecnologia como Desenvolvedor Front-End.
+Desenvolvedor Front-End.
