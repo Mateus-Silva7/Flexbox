@@ -1,24 +1,24 @@
 # FlexBlog
 
-Projeto desenvolvido durante o curso de CSS Flexbox da Origamid com foco na prática de layout moderno e responsivo.
+Projeto desenvolvido durante o curso de **CSS Flexbox** da Origamid com foco na prática de layout moderno e responsivo.
 
-🔗 Deploy: https://mateus-silva7.github.io/Flexbox/
+🔗 **Deploy:** https://mateus-silva7.github.io/Flexbox/
 
 ---
 
- 📚 Sobre o Projeto
+## 📚 Sobre o Projeto
 
 O objetivo deste projeto é aplicar na prática os principais conceitos de layout utilizando **CSS Flexbox**, como:
 
-- display: flex
-- flex-wrap
-- flex-grow, flex-shrink e flex-basis
-- justify-content` e `align-items
+- `display: flex`
+- `flex-wrap`
+- `flex-grow`, `flex-shrink` e `flex-basis`
+- `justify-content` e `align-items`
 - Responsividade com media queries
 
 ---
 
- 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -28,13 +28,13 @@ O objetivo deste projeto é aplicar na prática os principais conceitos de layou
 
 ---
 
- 📱 Responsividade
+## 📱 Responsividade
 
 O layout se adapta para diferentes tamanhos de tela utilizando Flexbox e media queries.
 
 ---
 
- 🚀 Aprendizados
+## 🚀 Aprendizados
 
 Durante o desenvolvimento deste projeto, pratiquei:
 
@@ -45,7 +45,8 @@ Durante o desenvolvimento deste projeto, pratiquei:
 - Publicação de projeto utilizando GitHub Pages
 
 ---
- 👨‍💻 Autor
 
-Desenvolvido por Mateus Silva 
-Desenvolvedor Front-End.
+## 👨‍💻 Autor
+
+Desenvolvido por **Mateus Silva**  
+Em transição para a área de Tecnologia como Desenvolvedor Front-End.
